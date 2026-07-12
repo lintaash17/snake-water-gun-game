@@ -101,7 +101,7 @@ python --version
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/snake-water-gun-game.git
+git clone https://github.com/lintaash17/snake-water-gun-game.git
 cd snake-water-gun-game
 ```
 
