@@ -243,10 +243,7 @@ Possible enhancements for future versions:
 
 ## Author
 
-**Your Name**  
-University: *Your University Name*  
-Course: *Your Course Name*  
-Student ID: *Your Student ID*
+**Linta Ashafq**  
 
 ---
 
